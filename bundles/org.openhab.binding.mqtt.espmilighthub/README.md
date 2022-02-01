@@ -4,6 +4,8 @@ This binding allows an open source esp8266 based bridge to automatically find an
 The hubs can be built from 2 ready made boards and only need connecting with 7 wires.
 They can be very easy to build with no soldering needed.
 
+**Important note:** This is not a stand-alone binding, as it bundlled with the MQTT binding. For more details and installation instructions visit: <https://www.openhab.org/addons/bindings/mqtt/>
+
 Advantages to using this DIY bridge over the OEM bridge:
 
 + Almost unlimited groups to give individual control over an entire house of Milight globes without needing multiple bridges.
